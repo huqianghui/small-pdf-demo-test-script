@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ed5316ad-3e88-4ca6-84cc-79f80c44f6ea/resourceGroups/rg-enterprise-search-demo/providers/Microsoft.Web/sites/private-public-domain-QA",
+    "appService.deploySubpath": "."
+}
