@@ -16,5 +16,7 @@
 <img width="468" alt="image" src="https://github.com/huqianghui/small-pdf-demo-test-script/assets/7360524/d0f80e9d-a89c-4d2d-8dfc-c9aa2ee853a9">
 
 最终全部一个文档，变成一条记录也是azure cognitive search的一个document索引出来。
-<img width="468" alt="image" src="https://github.com/huqianghui/small-pdf-demo-test-script/assets/7360524/43aee129-f6bd-44ec-a841-5d4e7a34c5bc">
+
+<img width="1049" alt="Screen Shot 2023-06-10 at 8 27 24 AM" src="https://github.com/huqianghui/small-pdf-demo-test-script/assets/7360524/ce5c74d9-055f-4259-bf3e-f363f33384af">
+
 
